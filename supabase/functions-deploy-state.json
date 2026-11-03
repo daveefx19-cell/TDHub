@@ -1,0 +1,17 @@
+{
+  "projectId": "72630408",
+  "functions": {
+    "paystack-initialize": {
+      "hasChanged": false,
+      "hash": "e4bad270bada663fdf93961216a17f0c1998d85e8bd72b1594b8a92fc2a10609"
+    },
+    "paystack-verify": {
+      "hasChanged": false,
+      "hash": "c79890df576c72fc8c45ae7c3d1b594059fafd51c4507c2f445fc51557db7b5f"
+    },
+    "paystack-webhook": {
+      "hasChanged": false,
+      "hash": "34a4fe5afa65bb120f1cf431857449112ff37440e79ccc6454c890297f26235b"
+    }
+  }
+}
